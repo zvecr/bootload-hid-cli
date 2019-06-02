@@ -1,7 +1,9 @@
 # bootload-hid-cli
 > Utility for flashing BootloadHID devices
 
+[![npm version](https://badge.fury.io/js/bootload-hid-cli.svg)](https://badge.fury.io/js/bootload-hid-cli)
 [![Build Status](https://travis-ci.org/zvecr/bootload-hid-cli.svg?branch=master)](https://travis-ci.org/zvecr/bootload-hid-cli)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/19989aa674a542ae899a7c6ad26d9985)](https://www.codacy.com/app/zvecr/bootload-hid-cli?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=zvecr/bootload-hid-cli&amp;utm_campaign=Badge_Grade)
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=zvecr/bootload-hid-cli)](https://dependabot.com)
 ![Code Status](https://img.shields.io/badge/status-alpha-red.svg)
 
