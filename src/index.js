@@ -38,9 +38,10 @@ class BootloadHIDCli extends Command {
   }
 }
 
-BootloadHIDCli.description = `TODO
+BootloadHIDCli.description = `Utility for flashing BootloadHID devices
 ...
-TODO more
+BootloadHID is a USB boot loader for AVR microcontrollers.
+The uploader tool requires no kernel level driver on Windows and can therefore be run without installing any DLLs.
 `;
 
 BootloadHIDCli.flags = {
