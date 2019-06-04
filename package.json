@@ -19,7 +19,7 @@
   ],
   "scripts": {
     "lint": "npm run lint:js && npm run lint:md",
-    "lint:js": "eslint ./src",
+    "lint:js": "eslint ./src ./test",
     "lint:md": "remark .",
     "test": "mocha",
     "coverage": "nyc --reporter=text mocha"
